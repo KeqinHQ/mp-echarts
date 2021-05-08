@@ -7,7 +7,7 @@
 在小程序 miniprogram 目录执行
 
 ```shell
-npm i @keqin/mp-echarts --save
+npm i @keqin-inc/mp-echarts --save
 ```
 
 然后在“工具” -> “构建 npm” 菜单中完成构建。
@@ -15,7 +15,7 @@ npm i @keqin/mp-echarts --save
 在小程序 js 中按以下语法可以导入 ECharts 库：
 
 ```javascript
-import * as echarts from '@keqin/mp-echarts/echarts';
+import * as echarts from '@keqin-inc/mp-echarts/echarts';
 ```
 
 在 json 文件中引入 components 的语法为
@@ -23,7 +23,7 @@ import * as echarts from '@keqin/mp-echarts/echarts';
 ```json
 {
   "usingComponents": {
-    "ec-canvas": "@keqin/mp-echarts/ec-canvas"
+    "ec-canvas": "@keqin-inc/mp-echarts/ec-canvas"
   }
 }
 ```
