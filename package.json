@@ -1,0 +1,11 @@
+{
+  "name": "@keqin/mp-echarts",
+  "version": "5.1.1",
+  "description": "echarts for miniprogram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
