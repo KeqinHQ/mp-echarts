@@ -1,12 +1,12 @@
 {
-  "name": "@keqin-inc/mp-echarts",
-  "version": "5.1.1",
+  "name": "@keqin/mp-echarts",
+  "version": "5.1.2",
   "description": "echarts for miniprogram",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "https://github.com/keqin-inc/mp-echarts",
+  "repository": "https://github.com/KeqinHQ/mp-echarts",
   "author": "",
   "license": "ISC"
 }
